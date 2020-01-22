@@ -38,7 +38,7 @@
                     <?php elseif($student['age'] <= 20): ?>
                         Yoshiroq
                     <?php else: ?>
-                        O'rta
+                        O'rtaa
                     <?php endif; ?>
                 </td>
             </tr>
